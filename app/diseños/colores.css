@@ -1,0 +1,36 @@
+.verde{
+    color:greenyellow;
+}
+.amarillo{
+    color:yellow;
+}
+.rojo{
+    color: red;
+}
+.azul{
+    color: blue;
+}
+.azulHover{
+
+}
+
+.bg-azul{
+    color: blue;
+    background-color: red;
+}
+.bg-amarillo{
+    color: yellow;
+    background-color: orange;
+}
+.bg-verde{
+    color: green;
+    background-color: gray;
+}
+.bg-rojo{
+    color: red;
+    background-color: white;
+}
+.bg-rosado{
+    color: pink;
+    background-color: cyan;
+}
